@@ -1,4 +1,4 @@
-exxexxx# Help
+# Help
 
 ## Running the tests
 
@@ -89,7 +89,7 @@ Good luck! Have fun!
 
 ## Submitting your solution
 
-You can submit your solution using the `exercism submit src/main/java/Greeter.java` command.
+You can submit your solution using the `exercism submit src/main/java/BirdWatcher.java` command.
 This command will upload your solution to the Exercism website and print the solution page's URL.
 
 It's possible to submit an incomplete solution which allows you to:
